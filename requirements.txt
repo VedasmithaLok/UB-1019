@@ -1,0 +1,12 @@
+
+streamlit
+torch
+torchvision
+transformers
+googletrans==4.0.0-rc1
+gTTS
+qrcode
+Pillow
+opencv-python
+reportlab
+matplotlib
